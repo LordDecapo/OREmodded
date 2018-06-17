@@ -2,6 +2,7 @@
 *.mp4
 *.so
 /astralsorcery
+/crash-reports
 /journeymap
 /local
 /logs
