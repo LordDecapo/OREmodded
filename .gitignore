@@ -1,4 +1,7 @@
-﻿/astralsorcery
+﻿*.dll
+*.mp4
+*.so
+/astralsorcery
 /journeymap
 /local
 /logs
@@ -7,6 +10,6 @@
 BotaniaVars.dat
 options.txt
 realms_persistence.json
+servers.dat
 usercache.json
 usernamecache.json
-servers.dat
