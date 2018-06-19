@@ -8,6 +8,9 @@
 /logs
 /resourcepacks
 /saves
+/screenshots
+/server-resource-packs
+/texturepacks
 BotaniaVars.dat
 icon.png
 options.txt
