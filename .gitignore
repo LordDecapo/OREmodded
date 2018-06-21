@@ -1,5 +1,5 @@
 ﻿*.dll
-*.ignore.jar
+*.ignore.*
 *.mp4
 *.so
 /astralsorcery
@@ -13,6 +13,7 @@
 /server-resource-packs
 /texturepacks
 BotaniaVars.dat
+CarpentersBlocksCachedResources.zip
 icon.png
 options.txt
 optionsof.txt
